@@ -10,6 +10,10 @@ int main()
     cv::Mat x =  Mat::zeros(5,3,CV_32F);
     
     cout<<x.size();
+    af
+    agd
+    adg
+    dag
 
   
     
